@@ -1,3 +1,29 @@
+1.网络请求
+2.图片上传
+3.拍照获取图片扫码
+4.支付分享
+5.加密
+6.list
+7.界面
+8.地图
+9.蓝牙
+10.推送
+11.基本空间
+12.登录-一键登录
+13.上下拉刷新
+14.轮播
+15.分段控件
+16.toast
+17.网络判断
+18.崩溃日志
+19.视频播放
+20.数据统计
+21.图像识别
+
+注：做完一项打√号
+
+
+
 # Flutter Go
 Language: [English](https://github.com/alibaba/flutter-go/blob/master/README-en.md) | [中文简体](https://github.com/alibaba/flutter-go/blob/master/README.md)
 
